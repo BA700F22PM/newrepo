@@ -3,3 +3,5 @@ Add a first line.
 Added a second line. Add a change to the second line.
 
 Add a third feature.
+
+Added a fourth line to the file while watching video.
