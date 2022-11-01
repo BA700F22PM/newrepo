@@ -5,3 +5,8 @@ Added a second line. Add a change to the second line.
 Add a third feature.
 
 Added a fourth line to the file while watching video.
+
+One more line added to the file for video demo.
+
+:Q to get the cursor back after executing the LOG command.
+
